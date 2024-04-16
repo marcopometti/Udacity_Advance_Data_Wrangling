@@ -1,6 +1,7 @@
 Databasez Title: BEV_Vehicles_Cleaned_data.csv and Electric_Vehicle_Population
 
 First dataset : Electric_Vehicle_Population_Size_History_By_County",  contain historical data of all type of vehicle. i focused on 2023 year. We have information of the number of BEV vehicle, PLUG-IN vehicle and not electric car for each counties
+
 Second dataset: "Electric_Vehicle_Population_Data" provided using an API and download the json file provides detailed information about electric vehicles made by different car makers such as Tesla , Bmw ecc.
 
 Dataset 1:
